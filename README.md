@@ -1,7 +1,7 @@
 # CalcWise-Calculator
 A simple, clean, and responsive financial calculator for determining Equated Monthly Installments (EMI) for loans.
 
-Live Demo: [Link to your live GitHub Pages site will go here]
+Live Demo: (https://shakil-shift.github.io/CalcWise-Calculator/)
 
 **✨ Features**
 Instant Calculation: Quickly calculate your monthly loan payments.
